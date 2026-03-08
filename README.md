@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br><br>---<br><br>## Hei, jeg er David Nguyen<br><br>Jeg fullfører for øyeblikket en bachelorgrad i informasjonsteknologi, med planlagt avslutning våren 2026.<br><br>Før jeg begynte i tech-bransjen jobbet jeg i helsevesenet. Jeg gikk etter hvert over til programvareutvikling etter å ha oppdaget hvor mye jeg liker å programmere, bygge systemer og løse problemer gjennom kode.<br><br>Jeg er spesielt interessert i backend-utvikling og bygging av skalerbare applikasjoner.<br><br>### Lærer for øyeblikket<br>- Kotlin<br>- Android-utvikling<br><br>### Teknologistabel<br><br>**Backend**<br>- Java<br>- Spring Boot<br>- Spring Security<br>- Docker<br>- PostgreSQL<br><br>**Frontend**<br>- HTML<br>- CSS<br>- React<br>- Tailwind CSS<br>- TypeScript
+
+## Hei, jeg er David Nguyen<br><br>Jeg fullfører for øyeblikket en bachelorgrad i informasjonsteknologi, med planlagt avslutning våren 2026.<br><br>Før jeg begynte i tech-bransjen jobbet jeg i helsevesenet. Jeg gikk etter hvert over til programvareutvikling etter å ha oppdaget hvor mye jeg liker å programmere, bygge systemer og løse problemer gjennom kode.<br><br>Jeg er spesielt interessert i backend-utvikling og bygging av skalerbare applikasjoner.
 
 
 # 💻 Tech Stack:
