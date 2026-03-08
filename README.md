@@ -1,7 +1,9 @@
 
 # Hei, mitt navn er David Nguyen <br><br> 
 
-## Jeg fullfører for øyeblikket en bachelorgrad i informasjonsteknologi, med planlagt avslutning våren 2026.<br><br>Før jeg begynte i tech-bransjen jobbet jeg i helsevesenet. Jeg gikk etter hvert over til programvareutvikling etter å ha oppdaget hvor mye jeg liker å programmere, bygge systemer og løse problemer gjennom kode.<br><br>Jeg er spesielt interessert i backend-utvikling og bygging av skalerbare applikasjoner.
+## Jeg fullfører for øyeblikket en bachelorgrad i informasjonsteknologi, med planlagt avslutning våren 2026.<br><br>Før jeg begynte i tech-bransjen jobbet jeg i helsevesenet. Jeg gikk etter hvert over til programvareutvikling etter å ha oppdaget hvor mye jeg liker å programmere, bygge systemer og løse problemer gjennom kode.<br><br>
+
+Jeg elsker å lære nye teknologier og vertkøy. Trives ekstremt mye i kodemiljøet, og har store ambsijoner om å bli en full-stack utivkler!
 
 
 # 💻 Tech Stack:
