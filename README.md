@@ -5,7 +5,8 @@
 
 ### Lærer for øyeblikket
 - Kotlin
-- Android-utvikling 
+- Android-utvikling
+- Spring Security (Oauth, JWT, MFA)
 
 ### Link til portfolio:
 [davidnguyen.no](https://www.davidnguyen.no)
