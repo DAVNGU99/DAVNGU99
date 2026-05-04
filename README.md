@@ -7,6 +7,7 @@
 - Kotlin
 - Android-utvikling
 - Spring Security (Oauth, JWT, MFA)
+- RabbitMQ - MQTT
 
 ### Link til portfolio:
 [davidnguyen.no](https://www.davidnguyen.no)
