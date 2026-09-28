@@ -1,7 +1,4 @@
 
-### Link til portfolio:
-[davidnguyen.no](https://www.davidnguyen.no)
-
 
 
 # 💻 Tech Stack:
